@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center">
       <div className="bg-white rounded-2xl shadow-lg p-10 max-w-md w-full text-center">
-        <h1 className="text-3xl font-bold text-gray-800 mb-4">TerrainTelli Frontend</h1>
+        <h1 className="text-3xl font-bold text-gray-800 mb-4">TerrainTelli Frontend V1</h1>
         <p className="text-gray-500 mb-6">React + Vite + Tailwind</p>
         <div className="bg-gray-50 rounded-xl p-4 border border-gray-200">
           <p className="text-sm text-gray-400 uppercase tracking-wide mb-1">Backend Status</p>
